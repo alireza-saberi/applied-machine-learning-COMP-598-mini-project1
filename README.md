@@ -1,8 +1,8 @@
 <h>Applied_ML-COMP-598</h>
 ===================
 
-<p>It is a repository for Mini-project #1 database, source codes, and report of  of <h href="http://cs.mcgill.ca/~jpineau/comp598/" target="_blank">COMP-598 "Topics in Computer Science: Applied Machine Learning"</h>
-presented by professor <h href="mcgill" target="_blank">Joelle Pineau</h>  at McGill university. </p>
+<p>It is a repository for Mini-project #1 database, source codes, and report of  of <a href="http://cs.mcgill.ca/~jpineau/comp598/" target="_blank">COMP-598 "Topics in Computer Science: Applied Machine Learning"</a>
+presented by professor <a href="mcgill" target="_blank">Joelle Pineau</a>  at McGill university. </p>
 
 <p>You can find and download or even fork!:D the followings:
 <ul>
