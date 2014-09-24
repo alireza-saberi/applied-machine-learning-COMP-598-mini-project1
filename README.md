@@ -1,7 +1,7 @@
 <h>Applied_ML-COMP-598</h>
 ===================
 
-<p>It is a repository for Mini-project #1 database, source codes, and report of  of <a href="http://cs.mcgill.ca/~jpineau/comp598/" target="_blank">COMP-598 "Topics in Computer Science: Applied Machine Learning"</a>
+<p style="text-align:justify">It is a repository for Mini-project #1 database, source codes, and report of  of <a href="http://cs.mcgill.ca/~jpineau/comp598/" target="_blank">COMP-598 "Topics in Computer Science: Applied Machine Learning"</a>
 presented by professor <a href="mcgill" target="_blank">Joelle Pineau</a>  at McGill university. </p>
 
 <p>You can find and download or even fork!:D the followings:
@@ -14,7 +14,7 @@ presented by professor <a href="mcgill" target="_blank">Joelle Pineau</a>  at Mc
 </p>
 
 <h2>Abstract</h2>
-<p>
+<p style="text-align:justify">
 The goal of this study was to predict the fare
 amount of a specific taxi pick-up in NYC. We used data from a
 random sample of 200,000 taxi trips that occurred during
