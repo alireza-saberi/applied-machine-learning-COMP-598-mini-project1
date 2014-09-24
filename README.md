@@ -1,4 +1,4 @@
-<h>Applied_ML-COMP-598</h>
+<h>Mini project #1 Applied Machine Learning</h>
 ===================
 
 <p style="text-align:justify">It is a repository for Mini-project #1 database, source codes, and report of  of <a href="http://cs.mcgill.ca/~jpineau/comp598/" target="_blank">COMP-598 "Topics in Computer Science: Applied Machine Learning"</a>
